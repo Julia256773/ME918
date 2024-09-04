@@ -1,0 +1,13 @@
+dados_teste: iris.csv
+
+variaveis:
+- resposta: Sepal.Length
+  preditora1: Petal.Length
+  preditora2: Petal.Width
+- resposta: Sepal.Length
+  preditora1: Species
+- resposta: Sepal.Length
+  preditora1: Petal.Width
+- resposta: Sepal.Length
+  preditora1: Petal.Length
+  preditora2: Sepal.Width

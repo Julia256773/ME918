@@ -1,0 +1,6 @@
+[
+  {"conjunto": 1, "tipo": "lasso", "preditora1":20, "preditora2":40},
+  {"conjunto": 1, "tipo": "linear", "preditora1":30, "preditora2": 80},
+  {"conjunto": 2, "tipo": "linear", "preditora1":0, "preditora2":0},
+  {"conjunto": 3, "tipo": "linear", "preditora1": 1.5}
+]
